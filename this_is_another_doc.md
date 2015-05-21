@@ -6,3 +6,5 @@
 5. and then more items were added
 6. These were edits, of course
 7. so the file became larger
+8. This was edited in the verrrry basic text editor in WC.
+9. We have a spelling error above. Let's change it in the future.
